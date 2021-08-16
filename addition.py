@@ -3,4 +3,4 @@ def exp(a,b):
     return sum
 
 
-print(exp(70, 70))
+print(exp(40, 70))
