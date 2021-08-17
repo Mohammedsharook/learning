@@ -1,6 +1,7 @@
-def exp(a,b):
-    sum = a + b
-    return sum
+def sha():
+    i = 0
+    while i < 5:
+        i+=1
+        print(i)
 
-
-print(exp(40, 70))
+sha()
