@@ -1,7 +1,2 @@
-def sha():
-    i = 0
-    while i < 5:
-        i+=1
-        print(i)
-
-sha()
+with open('exp.txt', 'r') as f:
+    print(f.readline(10),end="")
