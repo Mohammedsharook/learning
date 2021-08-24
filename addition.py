@@ -1,2 +1,2 @@
-with open('exp.txt', 'r') as f:
-    print(f.readline(10),end="")
+with open('exp.txt', 'r') as s:
+    print(s.readline(10),end="")
